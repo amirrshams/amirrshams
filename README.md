@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, This is Amirreza 
 
-<!--
-**amirrshams/amirrshams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's graduate in CS from the University of Waterloo, specializing in Software Engineering research. Proficient in Python, R, SQL, and experienced in managing dependencies, virtual environments, and Git.
 
-Here are some ideas to get you started:
+👨‍💻 Passionate about integrating human values in technology with a focus on user experience and human-centered design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Experienced with large language models, including prompt engineering and LLM deployment. Hands-on experience with cloud platforms. Solid understanding of data preprocessing, feature engineering, and model evaluation techniques.
+
+💡 Strong problem-solving skills, adept in oral and written communication, and effective in collaborative team settings. Showcased leadership and mentorship, excellent communication and presentation skills, and committed to meeting project deadlines.
+
+Let's connect!
+
+[LinkedIn Profile](https://www.linkedin.com/in/amirreza-shamsolhodaei/)
+
+[Twitter](https://twitter.com/amirrshams)
