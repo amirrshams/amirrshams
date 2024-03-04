@@ -8,6 +8,7 @@
 
 💡 Strong problem-solving skills, adept in oral and written communication, and effective in collaborative team settings. Showcased leadership and mentorship, excellent communication and presentation skills, and committed to meeting project deadlines.
 
+
 Let's connect!
 
 [LinkedIn Profile](https://www.linkedin.com/in/amirreza-shamsolhodaei/)
