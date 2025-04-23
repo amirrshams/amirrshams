@@ -1,6 +1,6 @@
 # Hi, This is Amirreza 
 
-🎓 Master's graduate in CS from the University of Waterloo, specializing in software engineering and data science. Proficient in Python, JavaScript, React.js, and experienced in managing dependencies, virtual environments, and Git.
+🎓 Master’s graduate in CS from the University of Waterloo with a focus on machine learning and AI. Experienced in developing NLP, generative AI, and vision models using Python, PyTorch, Hugging Face, and LangChain. Currently contributing to applied AI projects through the Vector Institute’s MLA program.
 
 🚀 Experienced with large language models, including prompt engineering and LLM deployment. Solid understanding of data preprocessing, feature engineering, and model evaluation techniques.
 
